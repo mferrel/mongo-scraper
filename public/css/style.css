@@ -1,0 +1,6 @@
+.jumbotron {
+    margin: 0px;
+    background: url("/images/buzz.jpg") no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
